@@ -1,4 +1,4 @@
-# Unit 21 Homework: Martian Token Crowdsale
+# Blockchain and Solidity: Martian Token Crowdsale
 
 Step 1: Create the KaseiCoin Token Contract
 
