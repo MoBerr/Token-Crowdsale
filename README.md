@@ -24,5 +24,4 @@ Step 4: Deploy and Test the Crowdsale on a Local Blockchain
 
 2. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances of those accounts.
 3. Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised.
-https://github.com/MoBerr/Token-Crowdsale/blob/master/Screen%20Shots/Step4%203.gif
 ![Step 4 (1)](https://github.com/MoBerr/Token-Crowdsale/blob/master/Screen%20Shots/Step4%203.gif)
