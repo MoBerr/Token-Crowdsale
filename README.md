@@ -2,8 +2,7 @@
 
 Step 1: Create the KaseiCoin Token Contract
 
-![SS - Step 1](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2021/Evaluation%20Evidence/SS%20-%20Step%201.jpg)
-![Step 1](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2021/Evaluation%20Evidence/Step%201.gif)
+![SS - Step 1](https://github.com/MoBerr/Token-Crowdsale/blob/master/Screen%20Shots/1.png)
 
 Step 2: Create the KaseiCoin Crowdsale Contract
 
